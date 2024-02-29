@@ -6,4 +6,6 @@ In this exercise, one will create an application in which meteorites fall from t
 
 <p align="center">
     <img src="https://i.imgur.com/GbGkUx4.jpeg" alt="Fireball about to hit the ground">
+    <br>
+    Example of a meteorite about to collide with the ground
 </p>
